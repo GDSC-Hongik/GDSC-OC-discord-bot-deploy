@@ -1,0 +1,3 @@
+redis_data/
+.env
+docker-compose.prod.yml
