@@ -10,8 +10,8 @@
    - [GDSC-OC/discord-bot](https://github.com/GDSC-OC/discord-bot) 참조
 
    ```dosini
-    DISCORD_BOT_TOKEN: ${DISCORD_BOT_TOKEN}
-    DISCORD_BOT_ID: ${DISCORD_BOT_ID}
+   DISCORD_BOT_TOKEN=<디스코드 봇 토큰>
+   DISCORD_BOT_ID=<디스코드 봇 ID>
    ```
 
 3. 실행
