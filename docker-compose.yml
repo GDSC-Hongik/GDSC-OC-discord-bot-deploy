@@ -16,7 +16,7 @@ services:
     restart: unless-stopped
     image: gdschongikoc/rating:latest
     ports:
-      - 80:3000
+      - 80:8000
 
   discord-bot:
     restart: unless-stopped
