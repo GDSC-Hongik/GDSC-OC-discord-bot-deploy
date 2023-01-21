@@ -2,7 +2,7 @@
 
 ## 세팅
 
-1. [도커](/docs/contribution-guides/developers/docker) 설치
+1. [도커](https://docker.com) 설치
 
 2. `.env`파일 생성
 
