@@ -12,8 +12,4 @@
 
    - [GDSC-OC/discord-bot](https://github.com/GDSC-OC/discord-bot) 참조
 
-4. 실행
-
-   ```
-   docker compose up --build
-   ```
+4. `run.sh` 실행
