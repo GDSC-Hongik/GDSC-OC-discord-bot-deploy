@@ -1,4 +1,4 @@
-# GDSC 홍익 오픈 커뮤니티 배포
+# GDSC Open Community 배포
 
 ## 세팅
 
