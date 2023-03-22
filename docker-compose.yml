@@ -7,4 +7,4 @@ services:
       DISCORD_BOT_TOKEN: ${DISCORD_BOT_TOKEN}
       SIGN_UP_URL: ${SIGN_UP_URL}
     volumes:
-      - ${PWD}/serviceAccountKey.json:/app/lib/serviceAccountKey.json
+      - ${PWD}/serviceAccountKey.json:/app/apps/discord-bot/build/lib/serviceAccountKey.json
