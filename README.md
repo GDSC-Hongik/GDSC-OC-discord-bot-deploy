@@ -1,4 +1,4 @@
-# GDSC Open Community 배포
+# GDSC 오픈 커뮤니티 디스코드 봇 배포
 
 ## 세팅
 
